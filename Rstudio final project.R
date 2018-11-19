@@ -10,3 +10,13 @@ df <- round(results$Distance[,2:21] * 0.000621371192, 2)
 row.names(df) <- colnames(df)
 
 write.csv(df, file="distance.csv")
+
+install.packages("TSP")
+library(TSP)
+
+df <- as.matrix(df)
+df <- as.ATSP(df)
+tour <- solve_TSP(df, 'nn')
+tour_length(tour)
+tour <- as.data.frame(tour)
+
