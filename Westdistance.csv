@@ -1,0 +1,11 @@
+"","Distance.Yosemite+National+Park","Distance.Grand+Canyon","Distance.Redwood+National+Park","Distance.Gardiner+MT","Distance.Bryce+Canyon","Distance.Glacier+National+Park","Distance.Badlands+National+Park","Distance.Arches+National+Park","Distance.Zion+National+Park","Distance.Monument+valley+national+park"
+"Distance.Yosemite+National+Park",0,616.19,498.88,981.89,536.74,1119.76,1228.82,716.99,498.43,739.25
+"Distance.Grand+Canyon",624.33,0,1102.79,977.57,259.15,1144.05,1025.9,320.45,212.76,157.66
+"Distance.Redwood+National+Park",518.33,1095.37,0,1110.1,934.96,939.77,1438.89,1070.62,935.16,1175.97
+"Distance.Gardiner+MT",976.85,979.45,1144.05,0,751.82,406.36,544.84,725.95,791.69,868.83
+"Distance.Bryce+Canyon",536.95,260.08,934.15,750.85,0,917.33,910.06,256.67,72.32,279.01
+"Distance.Glacier+National+Park",1137.38,1139.98,940.17,389.17,912.35,0,789.27,886.48,952.22,1029.37
+"Distance.Badlands+National+Park",1228.81,1026.09,1491.05,544.93,908.57,788.83,0,731.92,950.22,874.81
+"Distance.Arches+National+Park",716.95,320.42,1068.46,724.79,256.76,891.27,731.67,0,322.79,169.13
+"Distance.Zion+National+Park",498.42,213.67,934.42,790.72,72.35,957.2,949.93,322.55,0,232.59
+"Distance.Monument+valley+national+park",738.26,157.63,1174.27,867.69,278.02,1034.17,874.58,169.13,231.63,0
